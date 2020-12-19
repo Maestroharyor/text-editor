@@ -44,7 +44,8 @@ body{
 }
 
 .floating-button{
-    background-color: #fff;
+    background-color: tomato;
+    color: #fff;
     position: fixed;
     bottom: 100px;
     right: 50px;
@@ -66,7 +67,6 @@ body{
 
 .floating-button > i{
     margin-top: 18px;
-    color: rgb(112, 112, 112);
 }
 
 #textOutput{
@@ -98,5 +98,5 @@ body{
 }
 
 .fullscreen-output{
-    height: 590px;
+    height: 580px;
 }
